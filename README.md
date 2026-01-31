@@ -22,3 +22,7 @@ The goal of the course was to build a strong foundation in Swift and iOS develop
 - Incremental complexity, from basic language constructs to more advanced concepts
 
 This repository reflects my learning progress during the course and complements my later hands-on work with UIKit, networking, and iOS application architecture.
+
+## Related work
+
+For more advanced iOS projects (UIKit, networking, API integration, testing), see my other repositories and projects.
